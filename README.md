@@ -10,3 +10,6 @@
 * [4 Лекция "Основы организации компьютерных сетей"](https://github.com/ifanzilka/netwhat/blob/main/lection_PDF/4.network_layers.pdf)
 * [5 Лекция "Модель OSI" ](https://github.com/ifanzilka/netwhat/blob/main/lection_PDF/5.osi_model.pdf)
 * [6 Лекция "Модель и стек протоколов TCP/IP"](https://github.com/ifanzilka/netwhat/blob/main/lection_PDF/6.tcp-ip_stack.pdf)
+
+## Физический уровень
+* [7 Лекция "Физический уровень" ]()
