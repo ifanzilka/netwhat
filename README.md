@@ -3,7 +3,8 @@
 Тест на знание сетевых протоколов
 
 * [Компьютерные сети](https://www.asozykin.ru/courses/networks_online)
-## Общие сведения о компьютерных сетях
+* [Network](https://github.com/markveligod/netwhat/blob/master/README.md)
+ ## Общие сведения о компьютерных сетях
 
 * [1 Лекция "Классификация сетей"](https://github.com/ifanzilka/netwhat/blob/main/lection_PDF/1.network_types.pdf)
 * [2 Лекция "Топологии компьютерных сетей"](https://github.com/ifanzilka/netwhat/blob/main/lection_PDF/2.network_topologies.pdf)
