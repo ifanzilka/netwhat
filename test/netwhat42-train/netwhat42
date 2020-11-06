@@ -31,9 +31,9 @@ fi
 langs=("fr" "en" "es")
 current_lang=langs[0]
 
-path_q="srcs/${current_lang}/questions.txt"
-path_answ="srcs/${current_lang}/answers/"
-path_responses="srcs/responses.txt"
+path_q="./srcs/${current_lang}/questions.txt"
+path_answ="./srcs/${current_lang}/answers/"
+path_responses="./srcs/responses.txt"
 
 function select_option {
 
