@@ -12,7 +12,7 @@
 * [6 Лекция "Модель и стек протоколов TCP/IP"](https://github.com/ifanzilka/netwhat/blob/main/lection_PDF/6.tcp-ip_stack.pdf)
 
 ## Физический уровень
-* [7 Лекция "Физический уровень" ]()
+* [7 Лекция "Физический уровень" ](https://github.com/ifanzilka/netwhat/blob/main/lection_PDF/physical_layer.pdf)
 ## Канальный уровень
 * [8 ]()
 * [9 ]()
