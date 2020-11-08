@@ -5,6 +5,7 @@
 * [Компьютерные сети](https://www.asozykin.ru/courses/networks_online)
 * [Network](https://github.com/markveligod/netwhat/blob/master/README.md)
 * [IP Калькулятор подсетей Онлайн](http://infocisco.ru/ip_calculator.php)
+* [Лекиц от  CS](https://www.youtube.com/watch?v=BJSITWkSDQg&t=71s)
  ## Общие сведения о компьютерных сетях
 
 * [1 Лекция "Классификация сетей"](https://github.com/ifanzilka/netwhat/blob/main/lection_PDF/1.network_types.pdf)
